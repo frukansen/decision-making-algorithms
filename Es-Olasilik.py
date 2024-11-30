@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 def es_olasilik_olcutu():
     print("Eş Olasılık Ölçütü Programı")
 
@@ -138,4 +137,3 @@ def es_olasilik_olcutu():
 
 # Programı çalıştır
 es_olasilik_olcutu()
->>>>>>> origin/main
